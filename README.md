@@ -77,9 +77,20 @@ The data suggests a positive correlation between the length of an individual's a
 4) ### What role does age play in determining an individual's eligibility for a credit card?
 ![Eligibility By Age](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%234%20Visualization/Eligibility%20By%20Age.png?raw=true) ![Eligibility By Age Visual](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%234%20Visualization/Eligibility%20By%20Age%20Visual.png?raw=true)
 
-Overall, age plays a significant role in determining an individual's eligibility for a credit card. Younger individuals, especially those in the young adult age range, have the highest likelihood of being eligible, while eligibility rates tend to decrease with age. This trend underscores the importance of considering age as a factor in credit card eligibility assessments and tailoring credit offerings to different age demographics.
+Overall, age plays a significant role in determining an individual's eligibility for a credit card. Younger individuals, especially those in the young adult age range (21-30), have the highest likelihood of being eligible, while eligibility rates tend to decrease with age. This trend underscores the importance of considering age as a factor in credit card eligibility assessments and tailoring credit offerings to different age demographics.
 
 .
 
 5) ### How does asset ownership, such as owning a car or property, influence credit card eligibility
+![Car_Ownership](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%235%20Visualization/Car%20Ownership%20El.png?raw=true) ![Car_Ownership Visual](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%235%20Visualization/Car%20Ownership%20El.%20Visual.png?raw=true)
+
+
+![Property_Ownership](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%235%20Visualization/Property%20Ownership%20El.png?raw=true) ![Car_Ownership Visual](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%235%20Visualization/Property%20Ownership%20El%20Visual.png?raw=true)
+
+Ownership of assets such as a car or property has a minimal impact on credit card eligibility. The differences in eligibility rates between individuals who own these assets and those who do not are relatively small. This indicates that while asset ownership may be considered, it is not a primary determinant of credit card eligibility.
+
+.
+
+# Conclusion
+The analysis of credit card eligibility determinants reveals that **income, account length, and age** play significant roles in the approval process. While gender and asset ownership show some influence, their impact is less pronounced. These insights can help financial institutions refine their credit assessment strategies and improve customer targeting and segmentation. 
 
