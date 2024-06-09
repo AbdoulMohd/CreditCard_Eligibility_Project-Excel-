@@ -1,5 +1,5 @@
 # Introduction
-What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data using excel. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, asset ownership and more. 
+What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data using excel. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, asset ownership, and more. 
 
 ## We will be using this data to answer the following questions:
 1) Is there a significant difference in credit card eligibility between different genders?
@@ -45,7 +45,7 @@ With the use of a pivot table and visualization tools, I will demonstrate releva
 
    ![Male vs Female](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/1Visualization/Male_vs_Female.png?raw=true) ![](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/1Visualization/Credit_Card_Eligibility_By_Gender.png?raw=true)
   
- The data above shows that, there appears to be a slightly higher percentage of eligible individuals among Females (13.91%) compared to Males (12.84%). While there is a slight difference in credit card eligibility rates between genders, the difference is not substential.
+ The data above shows that there appears to be a slightly higher percentage of eligible individuals among Females (13.91%) compared to Males (12.84%). While there is a slight difference in credit card eligibility rates between genders, the difference is not substantial.
 
  Among individuals eligible for a credit card, 48% are male while 52% are female. This indicates a marginal but notable difference, suggesting that females have a higher likelihood of being eligible for a credit card compared to males.
 
