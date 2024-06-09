@@ -75,7 +75,11 @@ The data suggests a positive correlation between the length of an individual's a
 .
 
 4) ### What role does age play in determining an individual's eligibility for a credit card?
+![Eligibility By Age](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%234%20Visualization/Eligibility%20By%20Age.png?raw=true) ![Eligibility By Age Visual](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%234%20Visualization/Eligibility%20By%20Age%20Visual.png?raw=true)
+
+Overall, age plays a significant role in determining an individual's eligibility for a credit card. Younger individuals, especially those in the young adult age range, have the highest likelihood of being eligible, while eligibility rates tend to decrease with age. This trend underscores the importance of considering age as a factor in credit card eligibility assessments and tailoring credit offerings to different age demographics.
 
 .
 
 5) ### How does asset ownership, such as owning a car or property, influence credit card eligibility
+
