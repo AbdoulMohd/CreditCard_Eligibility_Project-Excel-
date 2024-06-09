@@ -1,5 +1,5 @@
 # Introduction
-What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data using excel. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, asset ownership, and more. 
+What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data using Excel. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, asset ownership, and more. 
 
 ## We will be using this data to answer the following questions:
 1) Is there a significant difference in credit card eligibility between different genders?
