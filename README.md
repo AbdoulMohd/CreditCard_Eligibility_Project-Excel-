@@ -1,5 +1,5 @@
 # Introduction
-What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, and asset ownership. 
+What factors play a role in credit card eligibility? Using a dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors), We will be taking a deep dive into the data using excel. This project aims to analyze a comprehensive dataset of credit card eligibility, focusing on key determinants such as gender, income, account length, age, asset ownership and more. 
 
 ## We will be using this data to answer the following questions:
 1) Is there a significant difference in credit card eligibility between different genders?
@@ -9,10 +9,12 @@ What factors play a role in credit card eligibility? Using a dataset obtained fr
 
 5) How does asset ownership, such as owning a car or property, influence credit card eligibility
 
-## Data Cleaning 
+
+.
+# Data Cleaning 
 [Before and After](/Dataset%20Img/)
 
-Steps to my data cleaning process are as follows:
+### Steps to my data cleaning process are as follows:
 * Gender Transformation: Changed 0 to Male and 1 to Female for readability.
 * Binary Columns (Own Car, Own Property): Changed 0 to No and 1 to Yes for better clarity and consistency across all binary columns.
 * Number of Children (Num_children): Grouped into categories: No Children, Few Children (1-2), Several Children (3-4), Many Children (5+).
@@ -34,3 +36,18 @@ Steps to my data cleaning process are as follows:
 * Age: Grouped into age categories: Young Adult (21-30), Adult (31-45), Middle-Aged (46-60), Senior (61-69).
 
   **Formula: =IF(P2<=30, "Young Adult", IF(P2<=45, "Adult", IF(P2<=60, "Middle-Aged", "Senior")))**
+
+ .
+
+# Analysis
+With a use of a pivot table and visualization tools, I will be demonstrate relevant insights that answers the question in hand
+1) **Is there a significant difference in credit card eligibility between different genders?**
+
+   ![Male vs Female](1Visualization\Male_vs_Female.png)   ![](1Visualization\Credit_Card_Eligibility_By_Gender.png)
+
+  
+ The data above shows that, there appears to be a slightly higher percentage of eligible individuals among Females (13.91%) compared to Males (12.84%). While there is a slight difference in credit card eligibility rates between genders, the difference is not substential.
+
+ Among individuals eligible for a credit card, 48% are male while 52% are female. This indicates a marginal but notable difference, suggesting that females have a higher likelihood of being eligible for a credit card compared to males.
+
+![Male](1Visualization\Visual_Female_vs_Male.png)
