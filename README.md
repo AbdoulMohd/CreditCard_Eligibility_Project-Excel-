@@ -54,3 +54,8 @@ With the use of a pivot table and visualization tools, I will demonstrate releva
 .
 
 2) ### How does income affect the likelihood of being eligible for a credit card?
+
+![Eligibity By Income](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/Eligibity%20By%20Income%20Visual.png?raw=true)  
+![](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/Eligibility%20By%20Income.png?raw=true) ![](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/%25%20Eligibible.png?raw=true) 
+
+Higher income levels generally correlate with a higher likelihood of being eligible for a credit card. The "Very High Income" group has the highest eligibility rate at 21.30%, indicating that income is a significant factor in credit card eligibility.
