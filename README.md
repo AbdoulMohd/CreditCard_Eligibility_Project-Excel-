@@ -40,7 +40,7 @@ What factors play a role in credit card eligibility? Using a dataset obtained fr
  .
 
 # Analysis
-With a use of a pivot table and visualization tools, I will be demonstrate relevant insights that answers the question in hand
+With the use of a pivot table and visualization tools, I will demonstrate relevant insights that answer the question at hand
 1) **Is there a significant difference in credit card eligibility between different genders?**
 
    ![Male vs Female](1Visualization\Male_vs_Female.png)   ![](1Visualization\Credit_Card_Eligibility_By_Gender.png)
