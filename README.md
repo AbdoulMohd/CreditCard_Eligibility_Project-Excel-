@@ -40,10 +40,10 @@ What factors play a role in credit card eligibility? Using a dataset obtained fr
  .
 
 # Analysis
-With a use of a pivot table and visualization tools, I will be demonstrate relevant insights that answers the question in hand
+With the use of a pivot table and visualization tools, I will demonstrate relevant insights that answer the question at hand
 1) **Is there a significant difference in credit card eligibility between different genders?**
 
-   ![Male vs Female](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/1Visualization/Male_vs_Female.png?raw=true)   ![](1Visualization\Credit_Card_Eligibility_By_Gender.png)
+   ![Male vs Female](1Visualization\Male_vs_Female.png)   ![](1Visualization\Credit_Card_Eligibility_By_Gender.png)
 
   
  The data above shows that, there appears to be a slightly higher percentage of eligible individuals among Females (13.91%) compared to Males (12.84%). While there is a slight difference in credit card eligibility rates between genders, the difference is not substential.
