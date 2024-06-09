@@ -49,4 +49,4 @@ With the use of a pivot table and visualization tools, I will demonstrate releva
 
  Among individuals eligible for a credit card, 48% are male while 52% are female. This indicates a marginal but notable difference, suggesting that females have a higher likelihood of being eligible for a credit card compared to males.
 
-![Male](1Visualization\Visual_Female_vs_Male.png)
+![Male](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/1Visualization/Visual_Female_vs_Male.png?raw=true)
