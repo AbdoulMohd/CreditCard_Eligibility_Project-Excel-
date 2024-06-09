@@ -59,3 +59,13 @@ With the use of a pivot table and visualization tools, I will demonstrate releva
 ![](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/Eligibility%20By%20Income.png?raw=true) ![](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/%25%20Eligibible.png?raw=true) 
 
 Higher income levels generally correlate with a higher likelihood of being eligible for a credit card. The "Very High Income" group has the highest eligibility rate at 21.30%, indicating that income is a significant factor in credit card eligibility.
+
+![M v F income Distribution](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%232%20Visualization/M%20vs%20F%20income%20distrubution.png?raw=true) 
+
+More over when comparing Male and Female based on income, there are notable differences in income ranges. In some income categories, such as high and medium incomes, females tend to have higher eligibility percentages, while in others, such as low income, males have higher percentages. This shows why women have a slight edge in credit card eligibility. 
+
+.
+
+3) ### What is the relationship between the length of an individual's account and their eligibility for a credit card?
+
+**To be continued...**
