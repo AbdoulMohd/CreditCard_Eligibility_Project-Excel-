@@ -68,4 +68,14 @@ More over when comparing Male and Female based on income, there are notable diff
 
 3) ### What is the relationship between the length of an individual's account and their eligibility for a credit card?
 
-**To be continued...**
+![Account Length](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%233%20Visualization/Account%20Length.png?raw=true) ![Account Length Visual](https://github.com/AbdoulMohd/CreditCard_Eligibility_Project-Excel-/blob/main/%233%20Visualization/Account%20Length%20Visual.png?raw=true)
+
+The data suggests a positive correlation between the length of an individual's account and their likelihood of being eligible for a credit card. Individuals with longer account histories are more likely to qualify for a credit card compared to those with shorter histories. This underscores the importance of a strong banking relationship and established credit history in the credit card eligibility determination process.
+
+.
+
+4) ### What role does age play in determining an individual's eligibility for a credit card?
+
+.
+
+5) ### How does asset ownership, such as owning a car or property, influence credit card eligibility
